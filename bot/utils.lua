@@ -1,6 +1,6 @@
 -- BY MOHAMMED HISHAM
--- BY @TH3BOSS
--- BY @lBOSSl
+-- BY @Tel_i_i56
+-- BY @kazzrr
  local clock = os.clock
 function sleep(time)  -- seconds
   local t0 = clock()
