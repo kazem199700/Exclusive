@@ -7,7 +7,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/kazem199700/new-Exclusive && cd new-Exclusive && chmod +x install.sh &&./install.sh
+git clone https://github.com/kazem199700/Exclusive && cd Exclusive && chmod +x install.sh &&./install.sh
 ```
 
 
@@ -21,11 +21,11 @@ redis-server
 ```
 ◈￤  اتركه مفتوح وافتح ترمنال ثاني وخلي
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/kazem199700/Exclusive
 ```
 ◈￤  وراها هاي
 ```sh
-cd TH3BOSS
+cd Exclusive
 ```
 ◈￤  وراها هاي 
 ```sh
