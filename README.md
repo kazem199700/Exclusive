@@ -7,7 +7,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x install.sh &&./install.sh
+git clone https://github.com/kazem199700/new-Exclusive && cd new-Exclusive && chmod +x install.sh &&./install.sh
 ```
 
 
