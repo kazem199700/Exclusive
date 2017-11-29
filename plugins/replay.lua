@@ -236,7 +236,7 @@ return [[
 ◈￤ - https://telegram.org/deactivate
 ]] 
 elseif w== 'ايدي' and msg.to.type == 'pv' then
-return "◈￤ ايدي البوت : "..our_id.. "\n\n ◈￤ ايدي حسابك : "..msg.from.id.. "\n ◈￤مـطـور الـسـورس\n الزعيم محمد  > @TH3BOSS "
+return "◈￤ ايدي البوت : "..our_id.. "\n\n ◈￤ ايدي حسابك : "..msg.from.id.. "\n ◈￤مـطـور الـسـورس\n ابن المسيح  > @Tel_i_i56 "
 elseif w=="رتبتي" then
 local rank
 if is_sudo(msg) then
